@@ -1,0 +1,12 @@
+{
+  "card": 4,
+  "name": "aditya",
+
+  "gold": ["22cr", "23cr", "24cr"],
+  "print": true,
+  "hero": {
+    "name": "abhi",
+    "addr": "mumbai",
+    "followers": "2000"
+  }
+}
